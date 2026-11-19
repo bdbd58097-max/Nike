@@ -6,7 +6,7 @@
   padding-block: 32px;
   background-color: var(--bg-color);
 }
-.header--open {
+.header--fixed {
   box-shadow: 0 0 20px 0 #181817;
 }
 .header__container {
